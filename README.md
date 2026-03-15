@@ -39,14 +39,26 @@ I enjoy exploring new technologies and building small projects to improve my cod
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syifaananda22&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=ffffff">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=syifaananda22&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true&cache_seconds=1800"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaananda22&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=ffffff">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaananda22&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true&cache_seconds=1800"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syifaananda22&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syifaananda22&bg_color=ffffff&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true"/>
 
 </p>
 
 ---
 
 <p align="center">
-Small projects today build the skills for bigger systems tomorrow.
+small projects today build the skills for bigger systems tomorrow.
 </p>

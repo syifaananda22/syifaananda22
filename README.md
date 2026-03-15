@@ -30,7 +30,7 @@ I enjoy exploring new technologies and building small projects to improve my cod
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---

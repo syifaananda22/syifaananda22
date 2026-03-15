@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center" style="color:#FF69B4;">Welcome to my profile </h1>
+<h1 align="center" style="color:#FF69B4;">welcome to my profile </h1>
 
 <p align="center" style="color:#FF69B4;">
 Information Technology Student • Web Development

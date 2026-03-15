@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Welcome to my profile ᵔ ᵕ ᵔ </h1>
+<h1 align="center">Welcome to my profile ᵔ ᵕ ᵔ ‹𝟹</h1>
 
 <p align="center">
 Information Technology Student • Web Development
@@ -9,13 +9,13 @@ Information Technology Student • Web Development
 <!-- CODING STYLE ANIMATION -->
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpyeHN4aTh0NjRjbnF2NnI4MG00Mmp5ZWZpd2E1M2U3YzNwNHFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
-<!-- PINK CODING LAPTOP -->
+<!-- PINK LAPTOP GIF -->
 
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndnbHYwNHVhNjB0OTVnMDZmZHh1ZWpldXJxeWx5NDg0dGFxMDN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="420">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpyeHN4aTh0NjRjbnF2NnI4MG00Mmp5ZWZpd2E1M2U3YzNwNHFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="420">
 </p>
 
 ---
@@ -48,5 +48,5 @@ I enjoy exploring new technologies and building small projects to improve my cod
 ---
 
 <p align="center">
-Learning to code means learning how to solve problems.
+Small projects today build the skills for bigger systems tomorrow.
 </p>

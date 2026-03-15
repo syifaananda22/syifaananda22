@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Welcome to my profile :D </h1>
+<h1 align="center">Welcome to my profile (˶˃ ᵕ ˂˶) </h1>
 
 <p align="center">
 Information Technology Student • Web Development
@@ -9,13 +9,13 @@ Information Technology Student • Web Development
 <!-- CODING STYLE ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22+Sukmana%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda+Sukmana%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
 <!-- PINK CODING LAPTOP -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndnbHYwNHVhNjB0OTVnMDZmZHh1ZWpldXJxeWx5NDg0dGFxMDN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="420">
 </p>
 
 ---

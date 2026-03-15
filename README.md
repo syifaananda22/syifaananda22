@@ -3,7 +3,7 @@
 <h1 align="center" style="color:#FF69B4;">welcome to my profile </h1>
 
 <p align="center" style="color:#FF69B4;">
-Information Technology Student • Web Development
+Learning Web Development • Exploring Technology
 </p>
 
 <!-- CODING STYLE ANIMATION -->

@@ -12,32 +12,18 @@ Information Technology Student • Web Development
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
-<!-- VS CODE STYLE GIF -->
+<!-- PINK LAPTOP GIF -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F6d3Zsc3Y3b3M0eWZxbW92ZXVhczV6a2w0Y3FzMWVwM2p3eW5xZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="420">
 </p>
 
 ---
 
-### `about_me.js`
+## About Me
 
-```javascript
-const syifa = {
-  role: "Information Technology Student",
-  focus: ["Web Development", "Programming Fundamentals"],
-  tools: ["HTML", "CSS", "JavaScript", "GitHub", "VS Code"],
-  currentlyLearning: "Software Engineering Concepts"
-};
-
-function learnCoding() {
-  while(true){
-    practice();
-    buildProjects();
-    improveSkills();
-  }
-}
-```
+I am an Information Technology student who is currently learning web development and programming fundamentals.
+I enjoy exploring new technologies and building small projects to improve my coding skills and understanding of software development.
 
 ---
 
@@ -62,5 +48,5 @@ function learnCoding() {
 ---
 
 <p align="center">
-💗 Building skills one line of code at a time
+Learning to code means learning how to solve problems.
 </p>

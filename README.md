@@ -12,10 +12,10 @@ Information Technology Student • Web Development
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
-<!-- PINK LAPTOP GIF -->
+<!-- PINK CODING LAPTOP -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F6d3Zsc3Y3b3M0eWZxbW92ZXVhczV6a2w0Y3FzMWVwM2p3eW5xZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="420">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 </p>
 
 ---

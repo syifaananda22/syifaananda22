@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Welcome to my profile ᵔ ᵕ ᵔ ‹𝟹</h1>
+<h1 align="center">Welcome to my profile ᵔ ᵕ ᵔ</h1>
 
 <p align="center">
 Information Technology Student • Web Development
@@ -9,7 +9,7 @@ Information Technology Student • Web Development
 <!-- CODING STYLE ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda+Sukmana22%;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
 <!-- PINK LAPTOP GIF -->
@@ -30,7 +30,7 @@ I enjoy exploring new technologies and building small projects to improve my cod
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ---

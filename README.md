@@ -9,7 +9,7 @@ Information Technology Student • Web Development
 <!-- CODING STYLE ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=const+developer+=+%22Syifa+Ananda%22Sukmana;let+focus+=+%22Web+Development%22;while(learning)+%7B+build();+improve();+%7D">
 </p>
 
 <!-- PINK CODING LAPTOP -->

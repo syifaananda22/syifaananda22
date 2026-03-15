@@ -1,8 +1,8 @@
 <!-- HEADER -->
 
-<h1 align="center">Welcome to my profile ᵔ ᵕ ᵔ</h1>
+<h1 align="center" style="color:#FF69B4;">Welcome to my profile ᵔ ᵕ ᵔ</h1>
 
-<p align="center">
+<p align="center" style="color:#FF69B4;">
 Information Technology Student • Web Development
 </p>
 
@@ -20,14 +20,16 @@ Information Technology Student • Web Development
 
 ---
 
-## About Me
+<h2 style="color:#FF69B4;">About Me</h2>
 
+<p style="color:#FF69B4;">
 I am an Information Technology student who is currently learning web development and programming fundamentals.
 I enjoy exploring new technologies and building small projects to improve my coding skills and understanding of software development.
+</p>
 
 ---
 
-### Tech Stack
+<h3 style="color:#FF69B4;">Tech Stack</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -35,7 +37,7 @@ I enjoy exploring new technologies and building small projects to improve my cod
 
 ---
 
-### GitHub Stats
+<h3 style="color:#FF69B4;">GitHub Stats</h3>
 
 <p align="center">
 
@@ -59,6 +61,6 @@ I enjoy exploring new technologies and building small projects to improve my cod
 
 ---
 
-<p align="center">
+<p align="center" style="color:#FF69B4;">
 small projects today build the skills for bigger systems tomorrow.
 </p>

@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center" style="color:#FF69B4;">welcome to my profile </h1>
+<h1 align="center" style="color:#FF69B4;">welcome to my profile</h1>
 
 <p align="center" style="color:#FF69B4;">
 Learning Web Development • Exploring Technology
@@ -41,19 +41,19 @@ I love exploring new tech, building projects, and leveling up my coding skills t
 
 <p align="center">
 <!-- Total GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syifaananda22&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true&cache_seconds=1&v=1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=syifaananda22&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true"/>
 
 <!-- Top Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaananda22&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true&cache_seconds=1&v=1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaananda22&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true"/>
 </p>
 
 <p align="center">
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=syifaananda22&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4&hide_border=true&v=1"/>
+<!-- Streak Stats (FIXED) -->
+<img src="https://streak-stats.demolab.com?user=syifaananda22&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center" style="color:#FF69B4;">
-✨ small projects today build the skills for bigger systems tomorrow ✨
+small projects today build the skills for bigger systems tomorrow
 </p>

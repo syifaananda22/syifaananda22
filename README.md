@@ -51,5 +51,5 @@ I love exploring new tech, building projects, and leveling up my coding skills t
 ---
 
 <p align="center" style="color:#FF69B4;">
-small projects today build the skills for bigger systems tomorrow
+small projects today build the skills for bigger systems tomorrow ૮ ․ ․ ྀིა
 </p>

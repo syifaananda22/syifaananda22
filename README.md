@@ -40,11 +40,6 @@ I love exploring new tech, building projects, and leveling up my coding skills t
 <h3 style="color:#FF69B4;">GitHub Stats</h3>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syifaananda22&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaananda22&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=ffffff&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=syifaananda22&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4&hide_border=true"/>
 </p>
 
